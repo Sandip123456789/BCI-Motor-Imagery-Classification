@@ -1,6 +1,6 @@
 # BCI Motor Imagery Classification
 
-This project implements a reproducible Brain–Computer Interface (BCI) pipeline to classify **left vs. right hand motor imagery** from EEG signals. Using **EEGLAB** and **BCILAB** in MATLAB, the study demonstrates how motor-related neural activity can be extracted, visualized, and classified using open-source tools.
+This project implements a reproducible Brain–Computer Interface (BCI) pipeline to classify **left vs. right hand motor imagery** from EEG signals. Using **EEGLAB** and **BCILAB** in MATLAB, the study demonstrates how motor-related neural activity can be extracted, visualised, and classified using open-source tools.
 
 ---
 
